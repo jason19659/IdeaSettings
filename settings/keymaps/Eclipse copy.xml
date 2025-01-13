@@ -1,0 +1,57 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="AddToFavoritesPopup" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="ChangesView.Rename" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit" />
+  <action id="GotoBookmark1" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="ShelvedChanges.Rename" />
+  <action id="ShowFilterPopup" />
+  <action id="UsageGrouping.FileStructure" />
+</keymap>

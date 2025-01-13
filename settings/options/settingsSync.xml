@@ -1,0 +1,25 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="UI">
+          <value>
+            <list>
+              <option value="editorFont" />
+            </list>
+          </value>
+        </entry>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="String Manipulation" />
+              <option value="com.intellij.dubbo" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
+  </component>
+</application>

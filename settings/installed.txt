@@ -1,0 +1,5 @@
+String Manipulation
+com.intellij.dubbo
+com.intellij.ml.llm
+izhangzhihao.rainbow.brackets
+com.github.copilot
